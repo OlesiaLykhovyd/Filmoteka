@@ -3,20 +3,20 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://ArvisCode.github.io/filmoteka",
+  "homepage": "https://OlesiaLykhovyd.github.io/Filmoteka",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
+    "build": "parcel build src/*.html --public-url /Filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArvisCode/filmoteka.git"
+    "url": "git+https://github.com/OlesiaLykhovyd/Filmoteka.git"
   },
   "keywords": [],
   "author": "A.C.C.O.R.D.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ArvisCode/filmoteka/issues"
+    "url": "https://github.com/OlesiaLykhovyd/Filmoteka/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
